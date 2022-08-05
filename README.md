@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🦾 I’m a heavy duty software engineering contractor, tech strategist and business developer.
+- 🦾 I’m a software engineering contractor (+ tech strategist and business owner).
 - 🌱 Working on an app that helps industrial budgeting.
 - 🎒 REMOTE PROJECTS ONLY!
 - 📺 You can check out my tech blog here: https://noslopy.dev/ or my CV here: https://cv.noslopy.dev/
