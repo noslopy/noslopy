@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🦾 I’m a software engineering contractor (& business owner).
-- 🌱 Currently scaling my tech company Birdhouse🪿 & the Berny education platform.
+- 🌱 Currently scaling my tech company Birdhouse🪿 & the Berny 📚 education platform.
 - 🎒 REMOTE PROJECTS ONLY!
 - 🧪 You can find previously created test repos like ```*_test```
 - 📺 You can check out my tech portfolio page here: https://noslopy.dev/
